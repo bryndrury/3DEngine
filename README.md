@@ -1,8 +1,7 @@
 # 3DEngine
 Just learning about 3d graphics, feel free to have a look. It's not very fast and the code is remarkably ugly but hey ho.
 
-I followed the videos made by javidx9 (i.e. One Lone Coder) in his Code-It yourself series, the link to the first video is below.
-
+I followed the videos made by javidx9 (i.e. One Lone Coder) in his Code-It yourself series, the link to the first video:
 https://www.youtube.com/watch?v=ih20l3pJoeU&ab_channel=javidx9
 
 I wanted this to work on Windows, Mac, and Linux so instead of using the console engine that he uses in the video I instead opted for using SDL2 (Simple DirectMedia Layer). 
