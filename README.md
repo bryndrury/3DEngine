@@ -1,5 +1,7 @@
 # 3DEngine
-Just learning about 3d graphics, feel free to have a look. It's not very fast and the code is remarkably ugly but hey ho.
+Just learning about 3d graphics, feel free to have a look. It's not very fast but hey ho.
+
+I thought the maths looked cool so I gave it a go.
 
 I followed the videos made by javidx9 (i.e. One Lone Coder) in his Code-It yourself series, the link to the first video:
 https://www.youtube.com/watch?v=ih20l3pJoeU&ab_channel=javidx9
@@ -11,4 +13,4 @@ http://gamedevgeek.com/tutorials/getting-started-with-sdl/
 You can find the latest version of SDL on its website:
 https://www.libsdl.org/
 
-If you're interested in doing something similar I cannot recommend javidx9's videos enough they are fantastic.
+If you're interested in doing something similar I cannot recommend javidx9's videos enough, they are fantastic.
